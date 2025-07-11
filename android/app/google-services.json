@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "255687946285",
+    "firebase_url": "https://locationtracking-2fb6d-default-rtdb.firebaseio.com",
+    "project_id": "locationtracking-2fb6d",
+    "storage_bucket": "locationtracking-2fb6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255687946285:android:3b3f2701886f9acb1888a4",
+        "android_client_info": {
+          "package_name": "com.example.live_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6ZLeqnMdp7oeBmStsTw0L7M37DnSOEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255687946285:android:003aa035b8d8b6dc1888a4",
+        "android_client_info": {
+          "package_name": "com.example.location_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6ZLeqnMdp7oeBmStsTw0L7M37DnSOEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
